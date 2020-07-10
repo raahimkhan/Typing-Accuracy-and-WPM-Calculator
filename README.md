@@ -7,6 +7,7 @@ GUI support added and statistics are calculated and displayed live on the user's
 * [x] Calculate accuracy in real time<br/>
 * [x] Calculate words per minute (WPM) in real time<br/>
 * [x] Select paragraphs to practice based on key words entered<br/>
+* [x] Leaderboard<br/>
 * [ ] Multiplyer support<br/>
 * [ ] Auto Correct<br/>
 
