@@ -1,4 +1,4 @@
-# Typing-Accuracy-and-WPM-Calculator
+# Typing-Accuracy-and-WPM-Calculator-GUI
 A program written in python that calculates and displays word/min entered by the user and the accuracy of words written correctly<br/>
 GUI support added and statistics are calculated and displayed live on the user's screen<br/>
 
